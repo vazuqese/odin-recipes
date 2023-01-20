@@ -4,6 +4,11 @@
   text-align: center;
 }
 
+a {
+  color: red;
+  text-decoration: none; color: red;
+}
+
 .recipes {
   padding: auto;
   border-radius: 4px;
